@@ -1,0 +1,95 @@
+
+
+/*.jumbotron-container {
+	height: 100vh;
+	width: 100%;
+	background: linear-gradient(to bottom right, #2C3E50, #2C3E50);
+	position: absolute;
+}*/
+
+#particles-js {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient( 90deg, #141e30 0%, #243b55 100%);
+}
+
+
+.navbar-dark {
+  background-color: #141e30;
+}
+
+
+.jumbotron-content {
+	position: absolute;
+	text-align: center;
+	top: 30%;
+	left: 20%;
+	margin: auto;
+	color: white;
+}
+
+.btn-custom {
+	background-color: #22F4FF;
+}
+
+.btn-custom:hover {
+	background-color: #22F4FF;
+  box-shadow: 0 0 100px 6px #117A7F;
+  transition-duration: 1s;
+}
+
+.btn-outline-custom {
+	border: 1px solid #22F4FF;
+	color: #4EE858;
+}
+
+.btn-outline-custom a{
+
+	color: #4EE858;
+}
+
+.dark-background {
+	background: linear-gradient( -270deg, #141e30 50%, #243b55 100%);
+	padding: 36px;
+	margin-top: 36px;
+	margin-bottom: 36px;
+}
+
+.features-container {
+	padding: 24px;
+}
+
+
+.tech-btn {
+  background-color: #22F4FF;
+  font-weight: bold;
+  color: black;
+}
+
+.mrkt-btn {
+  background-color: #FF3BB8;
+  font-weight: bold;
+}
+
+
+.dsgn-btn {
+  background-color: #CCB007;
+  font-weight: bold;
+}
+
+.card-shadow {
+  box-shadow: 2px 4px 100px 8px rgba(0,0,0,0.2);
+}
+
+.team-container {
+  padding: 36px;
+  margin-top: 36px;
+  margin-bottom: 36px;
+}
+
+.team-content {
+  display: inline-block;
+  max-width: 360px;
+  padding-left: 24px;
+}
