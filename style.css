@@ -74,10 +74,18 @@
 	background-color: #22F4FF;
 }
 
+.btn-custom-2 {
+	background-color: #141e30;
+}
+
 .btn-custom:hover {
 	background-color: #22F4FF;
   box-shadow: 0 0 100px 6px #117A7F;
   transition-duration: 1s;
+}
+
+.btn-custom-2:hover {
+  box-shadow: 0 0 100px 6px #141e30;
 }
 
 .btn-outline-custom {
@@ -101,6 +109,9 @@
 	padding: 24px;
 }
 
+.hiring-container {
+
+}
 
 .tech-btn {
   background-color: #22F4FF;
